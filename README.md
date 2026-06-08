@@ -28,4 +28,4 @@
 - Email : tonmail@example.com
 
 ## GitHub Stats
-![Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnantahar2007&theme=github_dark)
+![Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnantahar2007&theme=github)
