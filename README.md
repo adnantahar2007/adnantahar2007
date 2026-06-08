@@ -5,7 +5,6 @@
 ## À propos de moi
 - 🎓 Étudiant en BUT Informatique
 - 💻 J’apprends Python, SQL et le développement web
-- 🥋 Passionné de Kyokushin Karate
 - 🌍 Basé à Strasbourg
 
 ## Ce que j’apprends en ce moment
@@ -29,4 +28,4 @@
 - Email : tonmail@example.com
 
 ## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adnantahar2007)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adnantahar2007)]
