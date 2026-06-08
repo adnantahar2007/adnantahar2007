@@ -1,4 +1,34 @@
-## Hi there 👋
-I'm an AI research engineer specializing in large language models (LLMs), deep learning, and open-source development.
+# Salut, moi c’est Adnan 👋
 
-My work focuses on AI research, building practical tools, and sharing knowledge through books and open-source contributions.
+Étudiant en informatique, passionné par le développement web, la programmation et les projets concrets.
+
+## À propos de moi
+- 🎓 Étudiant en BUT Informatique
+- 💻 J’apprends Python, SQL et le développement web
+- 🥋 Passionné de Kyokushin Karate
+- 🌍 Basé à Strasbourg
+
+## Ce que j’apprends en ce moment
+- Java / POO
+- SQL et bases de données
+- Développement web
+- Android
+
+## Compétences
+- Python
+- SQL
+- HTML / CSS / JavaScript
+- Git & GitHub
+- Java
+
+## Projets
+- [Nom du projet 1](lien) — petite description
+- [Nom du projet 2](lien) — petite description
+- [Nom du projet 3](lien) — petite description
+
+## Contact
+- LinkedIn : [Ton profil](lien)
+- Email : tonmail@example.com
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
