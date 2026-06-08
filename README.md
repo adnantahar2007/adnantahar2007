@@ -29,3 +29,4 @@
 
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adnantahar2007)
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnantahar2007&theme=github_dark
