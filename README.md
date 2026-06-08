@@ -12,7 +12,6 @@
 - Java / POO
 - SQL et bases de données
 - Développement web
-- Android
 
 ## Compétences
 - Python
@@ -27,8 +26,7 @@
 - [Nom du projet 3](lien) — petite description
 
 ## Contact
-- LinkedIn : [Ton profil](lien)
 - Email : tonmail@example.com
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adnantahar2007&show_icons=true&theme=tokyonight)
