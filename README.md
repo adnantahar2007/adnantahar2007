@@ -28,4 +28,4 @@
 - Email : tonmail@example.com
 
 ## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adnantahar2007)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adnantahar2007)
