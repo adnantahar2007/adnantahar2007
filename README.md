@@ -30,3 +30,4 @@
 ## GitHub Stats
 ![Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnantahar2007&theme=github)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnantahar2007&theme=github)
+![Top langage](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adnantahar2007&theme=github)
